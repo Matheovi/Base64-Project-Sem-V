@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"pl.polsl.lab.wiatrok.mateusz.annotations"},{"l":"pl.polsl.lab.wiatrok.mateusz.controller"},{"l":"pl.polsl.lab.wiatrok.mateusz.model"},{"l":"pl.polsl.lab.wiatrok.mateusz.resources"},{"l":"pl.polsl.lab.wiatrok.mateusz.servlets"},{"l":"pl.polsl.lab.wiatrok.mateusz.view"}]
